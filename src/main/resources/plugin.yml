@@ -1,0 +1,8 @@
+name: ${name}
+description: ${description}
+version : ${version}
+author: ${author}
+website: ${url}
+main: ${mainClass}
+commands:
+permission:
